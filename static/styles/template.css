@@ -101,18 +101,13 @@ html * {
     overflow: hidden;
     z-index: 999;
     color: #C967F0;
-    text-align: center;
-}
-
-.footer p{
-    font-size: 1vw;
-    padding: 0% 0.8%;
-    float: left;
+    text-align: left;
 }
 
 .footer a{
     font-size: 1vw;
     color: #C967F0;
+    margin-left: 35%;
 }
 
 .footer a img{
